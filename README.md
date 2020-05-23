@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Logo" src="https://github.com/GustavoDuregger/SmartPark/blob/master/imagens/carro.png" width="150px">
  </p>
-      <h1 align="center">SmartPark [Inteligência Artificial]<h1>
+      <h1 align="center">SmartParking [Inteligência Artificial]<h1>
   <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GustavoDuregger/SmartPark-AI">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GustavoDuregger/SmartPark-AI">
